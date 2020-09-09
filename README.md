@@ -2,5 +2,5 @@
 
 
 <p align="center">
-    <img src="DeployedHTML.png"  width="700"/>
+    <img src="Deployed.png"  width="700"/>
 </p>
